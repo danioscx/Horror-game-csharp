@@ -1,0 +1,47 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\danio\\OneDrive\\Documents\\Godot\\Horror\\Horror.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\danio\\OneDrive\\Documents\\Godot\\Horror\\Horror.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\danio\\OneDrive\\Documents\\Godot\\Horror\\Horror.csproj",
+        "projectName": "Horror",
+        "projectPath": "C:\\Users\\danio\\OneDrive\\Documents\\Godot\\Horror\\Horror.csproj",
+        "packagesPath": "C:\\Users\\danio\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\danio\\OneDrive\\Documents\\Godot\\Horror\\.mono\\temp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\danio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

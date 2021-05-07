@@ -1,0 +1,8 @@
+C:\Users\danio\OneDrive\Documents\Godot\Horror\.mono\temp\bin\Debug\Horror.dll
+C:\Users\danio\OneDrive\Documents\Godot\Horror\.mono\temp\bin\Debug\Horror.pdb
+C:\Users\danio\OneDrive\Documents\Godot\Horror\.mono\temp\obj\Debug\Horror.csprojAssemblyReference.cache
+C:\Users\danio\OneDrive\Documents\Godot\Horror\.mono\temp\obj\Debug\Horror.AssemblyInfoInputs.cache
+C:\Users\danio\OneDrive\Documents\Godot\Horror\.mono\temp\obj\Debug\Horror.AssemblyInfo.cs
+C:\Users\danio\OneDrive\Documents\Godot\Horror\.mono\temp\obj\Debug\Horror.csproj.CoreCompileInputs.cache
+C:\Users\danio\OneDrive\Documents\Godot\Horror\.mono\temp\obj\Debug\Horror.dll
+C:\Users\danio\OneDrive\Documents\Godot\Horror\.mono\temp\obj\Debug\Horror.pdb
